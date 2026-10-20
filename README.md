@@ -35,7 +35,17 @@ Built using **Python, Scikit-learn, and Streamlit**.
 
 ## 💻 Installation & Setup
 
-1. **Clone the repository:**
+**Step 1: Clone or Download the repository**
+`git clone https://github.com/your-username/sms-spam-detection-ml.git`
+
+**Step 2: Install required libraries**
+`pip install -r requirements.txt`
+
+**Step 3: Train the model**
+`python spam_detection.py`
+
+**Step 4: Launch the Web Application**
+`python -m streamlit run app.py`
    ```bash
    git clone https://github.com/your-username/sms-spam-detection-ml.git
    cd sms-spam-detection-ml
